@@ -1,50 +1,70 @@
-# 👋 Hello! I'm Vladyslav Savkiv (s1zyy)
+# 👋 Hi, I'm Vladyslav Savkiv (s1zyy)
 
-### 💻 Full-Stack Focus: Java, Spring Boot, & Native iOS Development
+Backend-focused developer building full-stack applications using Java (Spring Boot) and native iOS (Swift).
 
-I am a versatile software engineer with core expertise in building scalable backend services using the JVM ecosystem, complemented by strong skills in developing native mobile clients.
-
----
-
-### 🛠️ Core Competencies & Tech Stack
-
-| ☕ Backend & Services | 📱 Mobile Client Development |
-| :--- | :--- |
-| **Language:** **Java** | **Language:** **Swift 5+** |
-| **Framework:** **Spring Boot**, Spring Data JPA | **Framework:** **UIKit**, Programmatic UI |
-| **Databases:** PostgreSQL, MySQL, Redis | **Architecture:** MVCS, POP, Delegation |
-| **Cloud/DevOps:** Docker, Kubernetes (Basic) | **Persistence:** **Core Data**, UserDefaults |
-| **Tools:** Xcode, Git | **Networking:** URLSession, RESTful APIs, JWT |
+I design REST APIs, implement authentication (JWT), and build client-server systems from scratch.
 
 ---
 
-### 🚀 Featured Project: Backend & Mobile Client
+## 🚀 Featured Project: Post App (Full-Stack)
 
-#### [PostSwiftApp & Java API]
+A full-stack application where users can register, authenticate, and create/manage posts.
 
-A full-stack project demonstrating a complete client-server solution. I designed the API and built the native iOS client to interact with it securely.
+The project demonstrates a complete client-server architecture with a custom backend and a native iOS client.
 
-| Project Component | Key Technologies Demonstrated |
-| :--- | :--- |
-| **Backend API** (Java) | **Spring Boot**, RESTful architecture, **JWT security**, PostgreSQL integration. |
-| **iOS Client** (Swift) | Full **CRUD** operations, **MVCS** architecture, **Core Data** persistence. |
+---
+
+### 🔧 Backend (Java, Spring Boot)
+
+- Built RESTful API for user authentication and post management
+- Implemented JWT-based authentication & authorization
+- Integrated PostgreSQL for persistent storage
+- Designed clean and structured backend architecture
+
+---
+
+### 📱 iOS Client (Swift)
+
+- Native iOS app using UIKit (programmatic UI)
+- Integrated with backend via REST API (URLSession)
+- Supports full CRUD operations for posts
+- Uses Core Data for local persistence
+
+---
+
+### 🧠 Architecture
+
+iOS App → Spring Boot REST API → PostgreSQL
+
+---
 
 **🎥 Client Demo Video:** 
-[Watch the full 2-minute iOS client demo on YouTube](https://www.youtube.com/watch?v=sZ4cPI1NX_U)
+
+[Watch the full 2-minute iOS client demo on YouTube](https://www.youtube.com/watch?v=sZ4cPI1NX_U) 
 
 ---
 
-### 💡 What I'm Focused On Now
+### 🛠️ Tech Stack
 
-* Expanding microservices architecture knowledge in Spring Cloud.
-* Deepening experience with performance testing and optimization.
+- **Backend:** Java, Spring Boot, Spring Data JPA  
+- **Database:** PostgreSQL  
+- **Auth:** JWT  
+- **Mobile:** Swift, UIKit  
+- **Persistence:** Core Data  
+- **Tools:** Git, Xcode  
 
 ---
 
-### 🤝 Let's Connect
+## 💡 What I'm Working On
 
-I am actively seeking roles focused on **Java/Spring Backend Engineering** and versatile development teams.
+- Improving data structures & algorithms (interview preparation)
+- Building a trip expense manager (Flutter + Spring Boot)
+- Strengthening backend system design fundamentals
 
-* **GitHub Repository (Client):** [https://github.com/s1zyy/postSwiftApp](https://github.com/s1zyy/postSwiftApp)
-* **LinkedIn:** [https://www.linkedin.com/in/vladyslav-savkiv/](https://www.linkedin.com/in/vladyslav-savkiv/)
-* **Email:** [sav320801@gmail.com]
+---
+
+## 🤝 Contact
+
+- GitHub: https://github.com/s1zyy  
+- LinkedIn: https://www.linkedin.com/in/vladyslav-savkiv/  
+- Email: sav320801@gmail.com

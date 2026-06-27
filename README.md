@@ -48,7 +48,7 @@ alt="Typing SVG"/>
 | **Mobile** | Flutter, Dart, Clean Architecture, Provider, GetIt |
 | **Features** | Trip management, expense splitting, balance calculation, invite codes |
 
-[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://g_backend)
+[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/s1zyy/money_manager_backend)
 [![Mobile](https://img.shields.io/badge/Mobile_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/s1zyy/money_manager)
 
 ---

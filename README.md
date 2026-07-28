@@ -39,14 +39,14 @@ alt="Typing SVG"/>
 
 ## 🚀 Featured Projects
 
-### 💸 Money Manager — Trip Expense Splitter
-> Splitwise-like app for group trips. Full-stack: REST API + Flutter mobile client.
+### 💸 TripPace — Trip Expense Splitter
+> App for group trips. Full-stack: REST API + Flutter mobile client.
 
 | | |
 |---|---|
 | **Backend** | Spring Boot 4, Java 21, PostgreSQL, JWT, Flyway, Docker |
 | **Mobile** | Flutter, Dart, Clean Architecture, Provider, GetIt |
-| **Features** | Trip management, expense splitting, balance calculation, invite codes |
+| **Features** | Email invites, 7 languages, Daily budget limit, App version enforcement |
 
 [![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/s1zyy/money_manager_backend)
 [![Mobile](https://img.shields.io/badge/Mobile_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/s1zyy/money_manager)
@@ -76,6 +76,6 @@ alt="Typing SVG"/>
 
 ## 🌱 Currently
 
-- 📱 Shipping **Money Manager** to the App Store
+- 📱 Shipping **TripPace** to Google Play & App Store
 - 📚 Sharpening data structures & algorithms
 - 🏗 Deepening backend system design

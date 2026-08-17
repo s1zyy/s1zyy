@@ -75,13 +75,6 @@ alt="Typing SVG"/>
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/s1zyy/telegram-gpt-bot)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s1zyy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1zyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
-</p>
-
 ---
 
 ## 🌱 Currently

@@ -46,7 +46,7 @@ alt="Typing SVG"/>
 |---|---|
 | **Backend** | Spring Boot 4, Java 21, PostgreSQL, JWT, Flyway, Docker |
 | **Mobile** | Flutter, Dart, Clean Architecture, Provider, GetIt |
-| **Features** | Email invites, 7 languages, Daily budget limit, App version enforcement |
+| **Features** | Email invites, 8 languages, Daily budget limit, App version enforcement |
 
 [![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/s1zyy/money_manager_backend)
 [![Mobile](https://img.shields.io/badge/Mobile_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/s1zyy/money_manager)
@@ -59,11 +59,21 @@ alt="Typing SVG"/>
 | | |
 |---|---|
 | **Backend** | Java, Spring Boot, PostgreSQL, JWT |
-| **Mobile** | Swift, UIKit (programmatic), URLSession, Core Data |
+| **Mobile** | Swift, SwiftUI (programmatic), URLSession, Core Data |
 
 [![Demo](https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=sZ4cPI1NX_U)
 
 ---
+
+### 🤖 Stateful AI Bot — Telegram
+> GPT-4 + Whisper voice integration with stateful conversations and scheduled tasks.
+
+| | |
+|---|---|
+| **Stack** | Spring Boot, GPT-4 API, Whisper API, Docker, Cron |
+| **Features** | Text + voice input, conversation memory, automated task scheduling |
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/s1zyy/telegram-gpt-bot)
 
 ## 📊 GitHub Stats
 
